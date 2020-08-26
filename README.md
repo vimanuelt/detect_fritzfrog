@@ -31,5 +31,5 @@ In such case, you should:
 You are welcome to [contact Guardicore](mailto:labs@guardicore.com) for assistance with mitigating the threat.
 
 ### References 
-(1) https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/
-(2) https://github.com/guardicore/labs_campaigns/tree/master/FritzFrog
+* https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/
+* https://github.com/guardicore/labs_campaigns/tree/master/FritzFrog
