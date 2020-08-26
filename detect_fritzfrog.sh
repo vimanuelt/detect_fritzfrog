@@ -18,7 +18,7 @@ do
 done
 
 # netstat -lno | grep -wq 1234 && {
-netstat -l | grep -wq 1234 && {
+netstat -xla | grep -wq 1234 && {
     listening_port=true
     echo '[*] Listening on port 1234'
 }
